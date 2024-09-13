@@ -1,7 +1,7 @@
 <h1>Hi I'm Sanjan</h1>
 
 # 💫 About Me:
-🧑🏼‍🎓 Currently pursing Masters of Computer Science<br><br>🔭 Working on Stock Return Calculator<br><br>🌱 I’m currently learning AWS<br><br>💬 Ask me about JavaScript and React<br><br>🎊 Checkout my portfolio <a href="www.sanjanvadi.com">www.sanjanvadi.com</a>
+🧑🏼‍🎓 Masters of Computer Science<br><br>🔭 Working on Stock Return Calculator<br><br>🌱 I’m preparing for AWS Certified-Developer certification<br><br>💬 Ask me about JavaScript and React<br><br>🎊 Checkout my portfolio <a href="www.sanjanvadi.com">www.sanjanvadi.com</a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanjan_vadi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjanvadi) 
